@@ -1,0 +1,14 @@
+﻿# .gitignore for project
+node_modules/
+.env
+.env.local
+
+# Python artifacts
+python/__pycache__/
+python/venv/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
