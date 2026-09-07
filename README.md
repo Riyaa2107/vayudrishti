@@ -1,8 +1,8 @@
-# AEROTRACE AI
+# VayuDrishti AI
 
 > **Environmental Intelligence. From Detection to Decision.**
 
-AEROTRACE AI is an environmental intelligence command center designed for monitoring, analyzing, and acting upon urban air pollution. It combines real-time air quality metrics, statistical source apportionment heuristics, multi-factor environmental risk scoring, route-based exposure reduction models, and policy intervention simulations into a futuristic dark HUD interface.
+VAYUDRISHTI AI is an environmental intelligence command center designed for monitoring, analyzing, and acting upon urban air pollution. It combines real-time air quality metrics, statistical source apportionment heuristics, multi-factor environmental risk scoring, route-based exposure reduction models, and policy intervention simulations into a futuristic dark HUD interface.
 
 ---
 
